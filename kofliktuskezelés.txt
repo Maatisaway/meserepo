@@ -1,2 +1,6 @@
 valami megint
+<<<<<<< HEAD
 legyen konfliktus
+=======
+konfittálok
+>>>>>>> 634e59837408e1982774767113c8c6dcb94b00b8
